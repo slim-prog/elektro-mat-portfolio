@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Fundal rotunjit dark navy identic cu site-ul -->
+  <rect width="64" height="64" rx="14" fill="#0F172A"/>
+  <!-- Simbolul de fulger galvanic amber/gold -->
+  <path d="M35 8 L17 34 L31 34 L27 56 L47 28 L33 28 Z" fill="#F59E0B" stroke="#F59E0B" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>
